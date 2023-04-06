@@ -12,6 +12,10 @@ Usage:
 ![preview.gif](https://raw.githubusercontent.com/adoyle-h/_imgs/master/github/lsp-toggle/preview.gif)
 ```
 
+## 字体
+
+- https://raw.githubusercontent.com/adoyle-h/_imgs/master/font/lato/v23/S6u8w4BMUTPHjxsAUi-qNiXg7eU0.woff2
+
 ## Copyright & License
 
 All rights reserved © ADoyle (adoyle.h@gmail.com). Forever.
